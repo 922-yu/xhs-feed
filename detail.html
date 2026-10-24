@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:,">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>笔记详情</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="phone">
+    <!-- 详情顶部栏（不含任何组标识） -->
+    <div class="detail-top">
+      <span class="back" id="backBtn">←</span>
+      <span class="dt-title">笔记</span>
+    </div>
+
+    <!-- 笔记内容 -->
+    <div id="detail"></div>
+
+    <!-- 底部操作栏 -->
+    <div class="actionbar">
+      <input class="cmt-input" id="cmtInput" placeholder="说点什么..." maxlength="200">
+      <div class="act" id="cmtAct"><span class="ic">💬</span><span id="cmtCnt">0</span></div>
+      <div class="act" id="likeAct"><span class="ic">🤍</span><span id="likeCnt">0</span></div>
+      <div class="act" id="starAct"><span class="ic">☆</span><span id="starCnt">0</span></div>
+      <div class="act"><span class="ic">↗</span></div>
+    </div>
+  </div>
+
+  <!-- 帖子数据（详情页只取对应 id，全量加载便于按 id 查找；抓取后由脚本自动追加） -->
+  <script src="posts/p01_neutral/content.js"></script>
+  <script src="posts/p02_neutral/content.js"></script>
+  <script src="posts/p03_neutral/content.js"></script>
+  <script src="posts/p04_neutral/content.js"></script>
+  <script src="posts/p05_neutral/content.js"></script>
+  <script src="posts/p06_neutral/content.js"></script>
+  <script src="posts/p07_neutral/content.js"></script>
+  <script src="posts/p08_neutral/content.js"></script>
+  <script src="posts/p09_neutral/content.js"></script>
+  <script src="posts/p10_neutral/content.js"></script>
+  <script src="posts/p11_neutral/content.js"></script>
+  <script src="posts/p12_neutral/content.js"></script>
+  <script src="posts/p13_neutral/content.js"></script>
+  <script src="posts/p14_neutral/content.js"></script>
+  <script src="posts/p15_neutral/content.js"></script>
+  <script src="posts/p16_neutral/content.js"></script>
+  <script src="posts/p17_neutral/content.js"></script>
+  <script src="posts/p18_neutral/content.js"></script>
+  <script src="posts/p19_neutral/content.js"></script>
+  <script src="posts/p20_neutral/content.js"></script>
+  <script src="posts/p21_female/content.js"></script>
+  <script src="posts/p22_female/content.js"></script>
+  <script src="posts/p23_female/content.js"></script>
+  <script src="posts/p24_female/content.js"></script>
+  <script src="posts/p25_female/content.js"></script>
+  <script src="posts/p26_female/content.js"></script>
+  <script src="posts/p27_female/content.js"></script>
+  <script src="posts/p28_female/content.js"></script>
+  <script src="posts/p29_female/content.js"></script>
+  <script src="posts/p30_male/content.js"></script>
+  <script src="posts/p31_male/content.js"></script>
+  <script src="posts/p32_male/content.js"></script>
+  <script src="posts/p33_male/content.js"></script>
+  <script src="posts/p34_male/content.js"></script>
+  <script src="posts/p35_male/content.js"></script>
+  <script src="posts/p36_male/content.js"></script>
+  <script src="posts/p37_male/content.js"></script>
+  <script src="posts/p38_male/content.js"></script>
+  <script src="posts/p39_finance/content.js"></script>
+  <script src="posts/p40_finance/content.js"></script>
+  <script src="posts/p41_finance/content.js"></script>
+
+
+
+  <script src="detail.js"></script>
+</body>
+</html>

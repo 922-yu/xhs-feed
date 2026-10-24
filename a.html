@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:,">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>发现</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="phone">
+    <!-- 顶部标题栏（不显示 A/B 组与金融占比） -->
+    <div class="topbar">
+      <span class="app-title">发现</span>
+    </div>
+
+    <!-- 瀑布流 -->
+    <div class="feed" id="feed"></div>
+  </div>
+
+  <!-- 帖子数据（抓取文档所有链接后，由脚本自动在此处追加 <script src="posts/xxx/content.js"></script>） -->
+  <script src="posts/p01_neutral/content.js"></script>
+  <script src="posts/p02_neutral/content.js"></script>
+  <script src="posts/p03_neutral/content.js"></script>
+  <script src="posts/p04_neutral/content.js"></script>
+  <script src="posts/p05_neutral/content.js"></script>
+  <script src="posts/p06_neutral/content.js"></script>
+  <script src="posts/p07_neutral/content.js"></script>
+  <script src="posts/p08_neutral/content.js"></script>
+  <script src="posts/p09_neutral/content.js"></script>
+  <script src="posts/p10_neutral/content.js"></script>
+  <script src="posts/p11_neutral/content.js"></script>
+  <script src="posts/p12_neutral/content.js"></script>
+  <script src="posts/p13_neutral/content.js"></script>
+  <script src="posts/p14_neutral/content.js"></script>
+  <script src="posts/p15_neutral/content.js"></script>
+  <script src="posts/p16_neutral/content.js"></script>
+  <script src="posts/p17_neutral/content.js"></script>
+  <script src="posts/p18_neutral/content.js"></script>
+  <script src="posts/p19_neutral/content.js"></script>
+  <script src="posts/p20_neutral/content.js"></script>
+  <script src="posts/p21_female/content.js"></script>
+  <script src="posts/p22_female/content.js"></script>
+  <script src="posts/p23_female/content.js"></script>
+  <script src="posts/p24_female/content.js"></script>
+  <script src="posts/p25_female/content.js"></script>
+  <script src="posts/p26_female/content.js"></script>
+  <script src="posts/p27_female/content.js"></script>
+  <script src="posts/p28_female/content.js"></script>
+  <script src="posts/p29_female/content.js"></script>
+  <script src="posts/p30_male/content.js"></script>
+  <script src="posts/p31_male/content.js"></script>
+  <script src="posts/p32_male/content.js"></script>
+  <script src="posts/p33_male/content.js"></script>
+  <script src="posts/p34_male/content.js"></script>
+  <script src="posts/p35_male/content.js"></script>
+  <script src="posts/p36_male/content.js"></script>
+  <script src="posts/p37_male/content.js"></script>
+  <script src="posts/p38_male/content.js"></script>
+  <script src="posts/p39_finance/content.js"></script>
+  <script src="posts/p40_finance/content.js"></script>
+  <script src="posts/p41_finance/content.js"></script>
+
+
+
+  <script>
+    // 本页为 A 组：低金融曝光（仅展示 1 篇金融帖）
+    window.__GROUP = "A";
+    // 展示顺序：抓取完成后自动填充帖子 id 列表
+    window.__ORDER = ["p01_neutral", "p02_neutral", "p03_neutral", "p04_neutral", "p05_neutral", "p06_neutral", "p07_neutral", "p08_neutral", "p09_neutral", "p10_neutral", "p11_neutral", "p12_neutral", "p13_neutral", "p14_neutral", "p15_neutral", "p16_neutral", "p17_neutral", "p18_neutral", "p19_neutral", "p20_neutral", "p21_female", "p22_female", "p23_female", "p24_female", "p25_female", "p26_female", "p27_female", "p28_female", "p29_female", "p30_male", "p31_male", "p32_male", "p33_male", "p34_male", "p35_male", "p36_male", "p37_male", "p38_male", "p39_finance", "p40_finance", "p41_finance"];
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
