@@ -142,14 +142,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "刨冰Ooo_",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "@幸子小姐",
-   "likes": 0,
-   "replies": []
-  },
-  {
    "user": "小红薯6A6A2C9C",
    "avatar": "🌈",
    "avColor": "#c7d2fe",

@@ -107,14 +107,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "小红薯64A0D5EB",
-   "avatar": "🍀",
-   "avColor": "#bbf7d0",
-   "text": "你给他递一大团纸说哥们儿你想拉屎吗？你借给他一大团纸让他去拉个屎",
-   "likes": 10,
-   "replies": []
-  },
-  {
    "user": "耳机夹得猪头好痛",
    "avatar": "☕",
    "avColor": "#fef9c3",
@@ -129,14 +121,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "momo",
-   "avatar": "🌈",
-   "avColor": "#c7d2fe",
-   "text": "是不是放了128个屁的哈哈哈哈哈哈哈",
-   "likes": 226,
-   "replies": []
-  },
-  {
    "user": "你別發癲",
    "avatar": "🐰",
    "avColor": "#fde68a",
@@ -149,14 +133,6 @@ window.POSTS.push({
      "likes": 0
     }
    ]
-  },
-  {
-   "user": "你別發癲",
-   "avatar": "🍎",
-   "avColor": "#fecaca",
-   "text": "@便便超人 oh 便便超人",
-   "likes": 0,
-   "replies": []
   },
   {
    "user": "yooooo",
@@ -187,14 +163,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "rockcar",
-   "avatar": "🌸",
-   "avColor": "#bfdbfe",
-   "text": "催牛逼还坐上高铁了",
-   "likes": 45,
-   "replies": []
   },
   {
    "user": "十点半",
@@ -241,14 +209,6 @@ window.POSTS.push({
      "likes": 7
     }
    ]
-  },
-  {
-   "user": "小红薯5F14E9D1",
-   "avatar": "🍇",
-   "avColor": "#fef9c3",
-   "text": "还是研发治肠易激的药更治本",
-   "likes": 7,
-   "replies": []
   },
   {
    "user": "想要睡觉ing",
@@ -559,14 +519,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "WWW",
-   "avatar": "🌿",
-   "avColor": "#fef9c3",
-   "text": "我想闻你的",
-   "likes": 11,
-   "replies": []
   },
   {
    "user": "好感都给你",

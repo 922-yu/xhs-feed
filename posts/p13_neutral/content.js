@@ -85,14 +85,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "未来的狼族",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "哈哈哈哈哈不用推销 四个字堵住老太太的嘴",
-   "likes": 405,
-   "replies": []
-  },
-  {
    "user": "巡逻犬队长",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -123,14 +115,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "泪海",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "出门在外，你不欠任何人的，没有好脸色的义务，牢记这句话，冷漠能避免百分百的问题",
-   "likes": 3131,
-   "replies": []
-  },
-  {
    "user": "小红薯63ECB8CC",
    "avatar": "🍎",
    "avColor": "#fecaca",
@@ -151,14 +135,6 @@ window.POSTS.push({
      "likes": 3
     }
    ]
-  },
-  {
-   "user": "大航海家",
-   "avatar": "💡",
-   "avColor": "#bae6fd",
-   "text": "是的，我觉得博主还能听是因为老太太没有展现出来恶意，只是博主结合自己当下的处境会觉得难受，这很正常，感觉只是双方都不了解对方的生活",
-   "likes": 1,
-   "replies": []
   },
   {
    "user": "装修记录",
@@ -247,14 +223,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "高律师是暖心学霸～",
-   "avatar": "🦊",
-   "avColor": "#fecaca",
-   "text": "宝妈变老了",
-   "likes": 55,
-   "replies": []
-  },
-  {
    "user": "吉娃娃",
    "avatar": "🍓",
    "avColor": "#a7f3d0",
@@ -325,14 +293,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "忍住不困",
-   "avatar": "🌈",
-   "avColor": "#bbf7d0",
-   "text": "为什么会孤独呢[呃R]应该很幸福吧，求解答",
-   "likes": 15,
-   "replies": []
-  },
-  {
    "user": "081",
    "avatar": "🐰",
    "avColor": "#fef9c3",
@@ -361,14 +321,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "最强大脑",
-   "avatar": "💡",
-   "avColor": "#fecaca",
-   "text": "是的是的，其实家家有本难念的经，只是不说",
-   "likes": 255,
-   "replies": []
   },
   {
    "user": "sanmon",

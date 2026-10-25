@@ -31,14 +31,6 @@ window.POSTS.push({
  ],
  "commentsList": [
   {
-   "user": "Momo",
-   "avatar": "🐱",
-   "avColor": "#fed7aa",
-   "text": "感觉他快研究出来天数翻倍了",
-   "likes": 2566,
-   "replies": []
-  },
-  {
    "user": "小童",
    "avatar": "🌟",
    "avColor": "#e9d5ff",
@@ -55,14 +47,6 @@ window.POSTS.push({
    "replies": []
   },
   {
-   "user": "谦谦君子",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "很简单，只要每天赚十几亿，十年就能拥有4万亿",
-   "likes": 181,
-   "replies": []
-  },
-  {
    "user": "小老虎",
    "avatar": "🌈",
    "avColor": "#c7d2fe",
@@ -75,14 +59,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "哦？",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "听完马上死了",
-   "likes": 63,
-   "replies": []
   },
   {
    "user": "绿色圆湖",
@@ -105,14 +81,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "小红叔背后有人",
-   "avatar": "💡",
-   "avColor": "#bae6fd",
-   "text": "但他的现金流也不是一般人能花的完的就是了（）",
-   "likes": 74,
-   "replies": []
   },
   {
    "user": "灰度",
@@ -153,14 +121,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "鸭十日",
-   "avatar": "🍊",
-   "avColor": "#fed7aa",
-   "text": "好奇我什么时候能有钱起来",
-   "likes": 8,
-   "replies": []
-  },
-  {
    "user": "望.遂安",
    "avatar": "🌞",
    "avColor": "#e9d5ff",
@@ -189,14 +149,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "依依",
-   "avatar": "🌻",
-   "avColor": "#c7d2fe",
-   "text": "3万天已经是80来年了，再活80来年都进吉尼斯纪录了",
-   "likes": 127,
-   "replies": []
   },
   {
    "user": "Tesla-hrl",

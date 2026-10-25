@@ -80,26 +80,10 @@ window.POSTS.push({
    "replies": []
   },
   {
-   "user": "野马尘埃",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "哇哇哇好美可以当头像吗",
-   "likes": 4,
-   "replies": []
-  },
-  {
    "user": "可可哎哎小红薯",
    "avatar": "🌈",
    "avColor": "#c7d2fe",
    "text": "果然花如其名，亭亭玉立，气质若兰",
-   "likes": 0,
-   "replies": []
-  },
-  {
-   "user": "她屿Echo",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "好好看",
    "likes": 0,
    "replies": []
   },
@@ -124,14 +108,6 @@ window.POSTS.push({
      "likes": 4
     }
    ]
-  },
-  {
-   "user": "祝我好运",
-   "avatar": "💡",
-   "avColor": "#bae6fd",
-   "text": "我也想知道 不是上半年吗",
-   "likes": 4,
-   "replies": []
   },
   {
    "user": "余江",

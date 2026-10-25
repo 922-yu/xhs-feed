@@ -61,14 +61,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "小羊🐏pets",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "只说了睡不饱，因为评论区有人说吃不饱的了，我持有的观点就是这两种都不该存在",
-   "likes": 457,
-   "replies": []
-  },
-  {
    "user": "Zinnia",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -83,22 +75,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "Sana",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "但是我们的工作量比以前还更大了，屁事儿变多了，甚至还裁员",
-   "likes": 41,
-   "replies": []
-  },
-  {
-   "user": "小紫",
-   "avatar": "🌈",
-   "avColor": "#c7d2fe",
-   "text": "正中眉心",
-   "likes": 14,
-   "replies": []
-  },
-  {
    "user": "粒粒酱",
    "avatar": "🐰",
    "avColor": "#fde68a",
@@ -111,14 +87,6 @@ window.POSTS.push({
      "likes": 0
     }
    ]
-  },
-  {
-   "user": "雪兔",
-   "avatar": "🍎",
-   "avColor": "#fecaca",
-   "text": "弄点粗粮吃就好很多，不做饭买现成的也行。办法总比困难多",
-   "likes": 0,
-   "replies": []
   },
   {
    "user": "shi-ne",
@@ -143,14 +111,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "歪可可",
-   "avatar": "🐻",
-   "avColor": "#fef3c7",
-   "text": "我也觉得，我之前看到一个评论： 这个世界上人太多了，如果某天世界上突然消失一半的人，无论我是活下来的还是消失的我都会很开心 超级认同",
-   "likes": 1621,
-   "replies": []
-  },
-  {
    "user": "胆固醇爱辣椒",
    "avatar": "🌸",
    "avColor": "#bfdbfe",
@@ -165,14 +125,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "蔡文姬腿堡",
-   "avatar": "🍃",
-   "avColor": "#fbcfe8",
-   "text": "@猫跟着猫 我就觉得睡大于吃",
-   "likes": 27,
-   "replies": []
-  },
-  {
    "user": "哈哈哈哈哈",
    "avatar": "🐶",
    "avColor": "#ddd6fe",
@@ -185,14 +137,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "闻人白",
-   "avatar": "🍊",
-   "avColor": "#fed7aa",
-   "text": "但我觉得明明是社会的问题，生存压力太大，连正常睡眠都无法拥有，依赖药物更会陷入恶性循环",
-   "likes": 237,
-   "replies": []
   },
   {
    "user": "懒小羊退休记（存了85w版）",
@@ -241,14 +185,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "轻舟已撞大冰山",
-   "avatar": "🦊",
-   "avColor": "#fecaca",
-   "text": "不上班躺平不在乎任何人眼光确实饿不死，但是基本上也等于社会性死亡了，物理层面上这个人还活着，社会关系上等于死了",
-   "likes": 529,
-   "replies": []
-  },
-  {
    "user": "iiimimi",
    "avatar": "🍓",
    "avColor": "#a7f3d0",
@@ -277,14 +213,6 @@ window.POSTS.push({
      "likes": 0
     }
    ]
-  },
-  {
-   "user": "跳跳",
-   "avatar": "🐻‍❄️",
-   "avColor": "#bfdbfe",
-   "text": "什么镁求推荐啊",
-   "likes": 0,
-   "replies": []
   },
   {
    "user": "慕沐",

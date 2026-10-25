@@ -47,22 +47,6 @@ window.POSTS.push({
  ],
  "commentsList": [
   {
-   "user": "万一一个万一",
-   "avatar": "🐱",
-   "avColor": "#fed7aa",
-   "text": "别让咪骑摩托[扶额R]",
-   "likes": 302,
-   "replies": []
-  },
-  {
-   "user": "没有一米六",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "看起造孽嘻嘻的",
-   "likes": 1,
-   "replies": []
-  },
-  {
    "user": "酱酱酱油瓶",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -109,14 +93,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "蹦蹦蹦",
-   "avatar": "🌿",
-   "avColor": "#a7f3d0",
-   "text": "开玩笑的 祝咪咪早日被领养",
-   "likes": 0,
-   "replies": []
-  },
-  {
    "user": "狂吸猫腚",
    "avatar": "💡",
    "avColor": "#bae6fd",
@@ -154,14 +130,6 @@ window.POSTS.push({
    "avColor": "#ddd6fe",
    "text": "这猕猴土豆桃怎么一直动🥔",
    "likes": 0,
-   "replies": []
-  },
-  {
-   "user": "英年养生的Linda",
-   "avatar": "🍊",
-   "avColor": "#fed7aa",
-   "text": "鸡jio看着好香啊",
-   "likes": 6,
    "replies": []
   },
   {

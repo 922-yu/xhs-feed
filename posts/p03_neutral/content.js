@@ -51,14 +51,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "小七爱傻笑（被林刚史翻牌过）",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "吓人",
-   "likes": 613,
-   "replies": []
-  },
-  {
    "user": "真相只有一个",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -73,14 +65,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "好好吃饭",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "哈哈哈哈哈哈哈哈好心酸",
-   "likes": 638,
-   "replies": []
-  },
-  {
    "user": "momo",
    "avatar": "🌈",
    "avColor": "#c7d2fe",
@@ -93,14 +77,6 @@ window.POSTS.push({
      "likes": 1
     }
    ]
-  },
-  {
-   "user": "momo",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "ok啊那么医学独立立国了，单开一个国号",
-   "likes": 4458,
-   "replies": []
   },
   {
    "user": "饿_",
@@ -119,14 +95,6 @@ window.POSTS.push({
    "replies": []
   },
   {
-   "user": "momo",
-   "avatar": "💡",
-   "avColor": "#bae6fd",
-   "text": "哈哈哈哈哈哈是我我也笑",
-   "likes": 1096,
-   "replies": []
-  },
-  {
    "user": "拉屎通畅光速入睡月经丝滑无感顺利通过所有考试",
    "avatar": "🐻",
    "avColor": "#fef3c7",
@@ -141,14 +109,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "AMU",
-   "avatar": "🌸",
-   "avColor": "#bfdbfe",
-   "text": "我今年考……",
-   "likes": 604,
-   "replies": []
-  },
-  {
    "user": "momo减肥20斤（见过周深版）",
    "avatar": "🍃",
    "avColor": "#fbcfe8",
@@ -161,14 +121,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "路沙",
-   "avatar": "🐶",
-   "avColor": "#ddd6fe",
-   "text": "嘉豪",
-   "likes": 193,
-   "replies": []
   },
   {
    "user": "小红薯665E2EF7",
@@ -201,22 +153,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "煎茶也煎饼果子",
-   "avatar": "🍇",
-   "avColor": "#fef9c3",
-   "text": "你说自己参与郑晓龙导演力作，实际是在道具组帮忙搬运物资。",
-   "likes": 1244,
-   "replies": []
-  },
-  {
-   "user": "西蒙斯",
-   "avatar": "🌻",
-   "avColor": "#c7d2fe",
-   "text": "服了",
-   "likes": 568,
-   "replies": []
-  },
-  {
    "user": "萌萌的小桃心",
    "avatar": "🐯",
    "avColor": "#fde68a",
@@ -229,14 +165,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "momo",
-   "avatar": "🦊",
-   "avColor": "#fecaca",
-   "text": "但凡真上过几天的门诊，会发现每天都是人山人海。还垫付呢。客客气气说话的都是素质高的。",
-   "likes": 42,
-   "replies": []
   },
   {
    "user": "Queenie（内调加外调版）",
@@ -1251,14 +1179,6 @@ window.POSTS.push({
      "likes": 1
     }
    ]
-  },
-  {
-   "user": "Aurora",
-   "avatar": "🍀",
-   "avColor": "#fef9c3",
-   "text": "盲猜真绝了",
-   "likes": 2030,
-   "replies": []
   },
   {
    "user": "momo",

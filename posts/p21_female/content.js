@@ -49,14 +49,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "coronation",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "已经熬过夜 可以通过早睡补回来吗",
-   "likes": 574,
-   "replies": []
-  },
-  {
    "user": "momo",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -69,30 +61,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "好运",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "算了…女生又不是非要漂亮，健康有钱才是最重要的",
-   "likes": 680,
-   "replies": []
-  },
-  {
-   "user": "大力芝麻丸",
-   "avatar": "🌈",
-   "avColor": "#c7d2fe",
-   "text": "左边给人还有些幼态感 右边真的精致了很多",
-   "likes": 506,
-   "replies": []
-  },
-  {
-   "user": "明明",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "我的天你好美啊！女王类型",
-   "likes": 106,
-   "replies": []
   },
   {
    "user": "爱吃馒头的小猫",
@@ -109,14 +77,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "小财宝",
-   "avatar": "🌿",
-   "avColor": "#a7f3d0",
-   "text": "对，我就是工作以后赚钱打扮自己的",
-   "likes": 67,
-   "replies": []
-  },
-  {
    "user": "鸡翅翅翅",
    "avatar": "💡",
    "avColor": "#bae6fd",
@@ -129,14 +89,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "快乐贩卖机",
-   "avatar": "🐻",
-   "avColor": "#fef3c7",
-   "text": "对的，看个人脂肪分布情况和骨相[嘻嘻R]",
-   "likes": 50,
-   "replies": []
   },
   {
    "user": "意阑珊",
@@ -219,14 +171,6 @@ window.POSTS.push({
    "replies": []
   },
   {
-   "user": "牛哥的小弟",
-   "avatar": "🍓",
-   "avColor": "#a7f3d0",
-   "text": "23是素颜吗",
-   "likes": 0,
-   "replies": []
-  },
-  {
    "user": "pjsk害死我的孩子了求马云关闭邦多利",
    "avatar": "🌼",
    "avColor": "#bae6fd",
@@ -265,14 +209,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "momo",
-   "avatar": "🌟",
-   "avColor": "#ddd6fe",
-   "text": "对的 很对的",
-   "likes": 1,
-   "replies": []
-  },
-  {
    "user": "汐蕊",
    "avatar": "🍀",
    "avColor": "#fed7aa",
@@ -287,27 +223,11 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "汐蕊",
-   "avatar": "☕",
-   "avColor": "#e9d5ff",
-   "text": "我现在2324在读研，反正我是觉得我比高中和大一大二都好看了，我相信好好保养自己好好赚钱，不乱结婚生小孩，我会越来越好看，成为有魅力的大姐姐！",
-   "likes": 34,
-   "replies": []
-  },
-  {
    "user": "小小小颖儿",
    "avatar": "🌈",
    "avColor": "#bbf7d0",
    "text": "27很年轻哦，不化妆都好看哒姐妹，看上你身上的衣服，求个链接",
    "likes": 14,
-   "replies": []
-  },
-  {
-   "user": "肥牛虾滑凉拌贡菜金针菇🥦",
-   "avatar": "🐰",
-   "avColor": "#fef9c3",
-   "text": "好看了姐妹 做了眼睛嘛",
-   "likes": 0,
    "replies": []
   },
   {

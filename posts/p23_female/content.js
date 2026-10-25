@@ -50,14 +50,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "茉莉雨",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "这是真的，家里的一年的衣服超过100套，长此以往我的风格百变，也找到了适合自己的风格",
-   "likes": 46,
-   "replies": []
-  },
-  {
    "user": "momo",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -70,14 +62,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "若夜幕降临",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "我也是，去实体店不断尝试后找到了自己的风格，衣柜里都很统一",
-   "likes": 446,
-   "replies": []
   },
   {
    "user": "用户已注销",
@@ -94,14 +78,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "momo",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "对",
-   "likes": 1,
-   "replies": []
-  },
-  {
    "user": "插画师杨博",
    "avatar": "🍎",
    "avColor": "#fecaca",
@@ -116,14 +92,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "momo",
-   "avatar": "🌿",
-   "avColor": "#a7f3d0",
-   "text": "是这样的我之前喜欢亮色的，比如粉色蓝色黄色紫色之类的，今年买了个棕色靴子，发现衣柜里这个色系不多，又开始买",
-   "likes": 39,
-   "replies": []
-  },
-  {
    "user": "Cushy珂适穿搭",
    "avatar": "💡",
    "avColor": "#bae6fd",
@@ -136,14 +104,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "鸽鸽",
-   "avatar": "🐻",
-   "avColor": "#fef3c7",
-   "text": "感觉如果要简单，干净的穿搭，那个质感就得用钱堆砌上去，但是买一堆小饰品就会有一种精致用心的感觉，而且饰品不是很花钱。",
-   "likes": 785,
-   "replies": []
   },
   {
    "user": "172的开心姜",
@@ -182,14 +142,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "菜菜",
-   "avatar": "🍊",
-   "avColor": "#fed7aa",
-   "text": "姐妹，你这个点醒我了呀！",
-   "likes": 0,
-   "replies": []
-  },
-  {
    "user": "小红薯5C238C1B",
    "avatar": "🌞",
    "avColor": "#e9d5ff",
@@ -219,14 +171,6 @@ window.POSTS.push({
    "avColor": "#c7d2fe",
    "text": "鞋子包包怎么搭成套吗",
    "likes": 0,
-   "replies": []
-  },
-  {
-   "user": "吻尽晩风💜💜💜",
-   "avatar": "🐯",
-   "avColor": "#fde68a",
-   "text": "我们黑白灰就是各种排列组合",
-   "likes": 7,
    "replies": []
   },
   {
@@ -292,14 +236,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "momo",
-   "avatar": "🍀",
-   "avColor": "#fed7aa",
-   "text": "时尚易逝，风格永存",
-   "likes": 1,
-   "replies": []
-  },
-  {
    "user": "热心群众",
    "avatar": "☕",
    "avColor": "#e9d5ff",
@@ -336,14 +272,6 @@ window.POSTS.push({
      "likes": 0
     }
    ]
-  },
-  {
-   "user": "ALU",
-   "avatar": "🌿",
-   "avColor": "#fde68a",
-   "text": "认同",
-   "likes": 0,
-   "replies": []
   },
   {
    "user": "羊羊",

@@ -45,14 +45,6 @@ window.POSTS.push({
    "replies": []
   },
   {
-   "user": "momo",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "笑死了啊啊啊",
-   "likes": 5025,
-   "replies": []
-  },
-  {
    "user": "mimimomo",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -165,14 +157,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "我他妈吃吃吃吃吃吃",
-   "avatar": "🍊",
-   "avColor": "#fed7aa",
-   "text": "没有吧，你太敏感了",
-   "likes": 43,
-   "replies": []
-  },
-  {
    "user": "飞速逃离上班现场",
    "avatar": "🌞",
    "avColor": "#e9d5ff",
@@ -185,14 +169,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "咿呀哈",
-   "avatar": "🐼",
-   "avColor": "#bbf7d0",
-   "text": "笑死了，这玩意我真的天天做",
-   "likes": 584,
-   "replies": []
   },
   {
    "user": "HazelC. （作者）",

@@ -38,14 +38,6 @@ window.POSTS.push({
  ],
  "commentsList": [
   {
-   "user": "sally",
-   "avatar": "🐱",
-   "avColor": "#fed7aa",
-   "text": "北京最近也有这种云就很神奇",
-   "likes": 138,
-   "replies": []
-  },
-  {
    "user": "omom",
    "avatar": "🌟",
    "avColor": "#e9d5ff",
@@ -60,14 +52,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "又看一次海（禁毒禁烟版）",
-   "avatar": "🍀",
-   "avColor": "#bbf7d0",
-   "text": "因为彩云之南",
-   "likes": 1301,
-   "replies": []
-  },
-  {
    "user": "Just do it ！",
    "avatar": "☕",
    "avColor": "#fef9c3",
@@ -80,22 +64,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "JOY",
-   "avatar": "🌈",
-   "avColor": "#c7d2fe",
-   "text": "点了。。",
-   "likes": 33,
-   "replies": []
-  },
-  {
-   "user": "鹤川野",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "宝宝可以发个原图吗想拿来当壁纸",
-   "likes": 12,
-   "replies": []
   },
   {
    "user": "肖深刻 （作者）",
@@ -128,27 +96,11 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "宋星.",
-   "avatar": "🐻",
-   "avColor": "#fef3c7",
-   "text": "[视频]23s",
-   "likes": 1,
-   "replies": []
-  },
-  {
    "user": "momo",
    "avatar": "🌸",
    "avColor": "#bfdbfe",
    "text": "今天下雨",
    "likes": 0,
-   "replies": []
-  },
-  {
-   "user": "今天也要发财",
-   "avatar": "🍃",
-   "avColor": "#fbcfe8",
-   "text": "懂你，巴适",
-   "likes": 1,
    "replies": []
   },
   {

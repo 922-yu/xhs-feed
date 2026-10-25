@@ -104,14 +104,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "Niikkiii",
-   "avatar": "🍎",
-   "avColor": "#fecaca",
-   "text": "@kon1g",
-   "likes": 0,
-   "replies": []
-  },
-  {
    "user": "LUMi",
    "avatar": "🌿",
    "avColor": "#a7f3d0",

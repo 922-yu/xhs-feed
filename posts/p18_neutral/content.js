@@ -66,14 +66,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "Dayao",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "又理性又理智",
-   "likes": 1463,
-   "replies": []
-  },
-  {
    "user": "皮蛋🍭",
    "avatar": "🍀",
    "avColor": "#bbf7d0",
@@ -88,22 +80,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "Momo",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "肚子大这个体型 我发现很对新加坡同事典型身材啊 四只细..虽然国内也是 但是都是胖胖的 但他们就是细细的 就肚子大",
-   "likes": 217,
-   "replies": []
-  },
-  {
-   "user": "小红薯658D4F73",
-   "avatar": "🌈",
-   "avColor": "#c7d2fe",
-   "text": "一下子大改确实太难了，一点一点变吧，比如早餐从碳水变成加几个水煮蛋或酸奶，这也不花多少钱和精力，就不会觉得改变太累",
-   "likes": 82,
-   "replies": []
-  },
-  {
    "user": "福尔摩斯今天我要炸",
    "avatar": "🐰",
    "avColor": "#fde68a",
@@ -116,14 +92,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "Poor signal here",
-   "avatar": "🍎",
-   "avColor": "#fecaca",
-   "text": "而且蛋白质或者脂肪吃的多",
-   "likes": 61,
-   "replies": []
   },
   {
    "user": "小耶",
@@ -156,14 +124,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "田小鱼",
-   "avatar": "🌸",
-   "avColor": "#bfdbfe",
-   "text": "主要是吃饭的同时不要喝饮料和水，这个对血糖的影响也挺大的",
-   "likes": 451,
-   "replies": []
-  },
-  {
    "user": "世路姐在韩国",
    "avatar": "🍃",
    "avColor": "#fbcfe8",
@@ -176,14 +136,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "小红薯64F41451",
-   "avatar": "🐶",
-   "avColor": "#ddd6fe",
-   "text": "他们喜欢放果葡糖浆，这个很要命",
-   "likes": 130,
-   "replies": []
   },
   {
    "user": "黑色口味虾",
@@ -305,14 +257,6 @@ window.POSTS.push({
   },
   {
    "user": "momo",
-   "avatar": "☕",
-   "avColor": "#e9d5ff",
-   "text": "我大学毕业的时候疫情封控在家，又不能出门每天写论文都给自己点一杯奶茶，刚开始只是有一天做活动便宜点了一杯而已，后来每天必须点，不然都没办法坐下来集中注意力。奶茶这个东西实在是太上瘾了，也不是多好喝，纯属心理上依赖",
-   "likes": 17,
-   "replies": []
-  },
-  {
-   "user": "momo",
    "avatar": "🌈",
    "avColor": "#bbf7d0",
    "text": "我觉得这种事情，政府不应该插手吧，个人健康需要自己负责，吃多少糖也是个人自由，可以限制一下未成年",
@@ -340,14 +284,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "vampire",
-   "avatar": "🌿",
-   "avColor": "#fde68a",
-   "text": "是这样",
-   "likes": 651,
-   "replies": []
   },
   {
    "user": "momo",

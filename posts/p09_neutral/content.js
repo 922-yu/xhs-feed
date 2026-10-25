@@ -30,14 +30,6 @@ window.POSTS.push({
  ],
  "commentsList": [
   {
-   "user": "写进作文的神仙句子",
-   "avatar": "🐱",
-   "avColor": "#fed7aa",
-   "text": "哎呦好心酸",
-   "likes": 866,
-   "replies": []
-  },
-  {
    "user": "八百标兵暖被窝",
    "avatar": "🌟",
    "avColor": "#e9d5ff",
@@ -46,59 +38,11 @@ window.POSTS.push({
    "replies": []
   },
   {
-   "user": "哈哈哈",
-   "avatar": "🍀",
-   "avColor": "#bbf7d0",
-   "text": "打了领带不认识了",
-   "likes": 1005,
-   "replies": []
-  },
-  {
-   "user": "momo",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "中国ai是会折中的",
-   "likes": 1262,
-   "replies": []
-  },
-  {
-   "user": "assa",
-   "avatar": "🌈",
-   "avColor": "#c7d2fe",
-   "text": "暴躁傲娇",
-   "likes": 12,
-   "replies": []
-  },
-  {
    "user": "Miziizi🍊",
    "avatar": "🐰",
    "avColor": "#fde68a",
    "text": "全评论区就你最正常",
    "likes": 22,
-   "replies": []
-  },
-  {
-   "user": "垂耳兔.",
-   "avatar": "🍎",
-   "avColor": "#fecaca",
-   "text": "因为你没有调教他他们那种都是平时聊出来的",
-   "likes": 47,
-   "replies": []
-  },
-  {
-   "user": "小红薯641288C9",
-   "avatar": "🌿",
-   "avColor": "#a7f3d0",
-   "text": "兄弟你这字体看着不难受吗[坏笑R]",
-   "likes": 1,
-   "replies": []
-  },
-  {
-   "user": "阿延重度依赖",
-   "avatar": "💡",
-   "avColor": "#bae6fd",
-   "text": "所以为什么我调出来的这么大称段",
-   "likes": 8,
    "replies": []
   },
   {

@@ -34,14 +34,6 @@ window.POSTS.push({
  ],
  "commentsList": [
   {
-   "user": "Niiiii",
-   "avatar": "🐱",
-   "avColor": "#fed7aa",
-   "text": "此乃何物！",
-   "likes": 14,
-   "replies": []
-  },
-  {
    "user": "澂漪",
    "avatar": "🌟",
    "avColor": "#e9d5ff",
@@ -54,22 +46,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "Joiii",
-   "avatar": "🍀",
-   "avColor": "#bbf7d0",
-   "text": "也确实是刚钓上来的鱼的味",
-   "likes": 173,
-   "replies": []
-  },
-  {
-   "user": "勇敢的咩小姐",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "不能吃辣的能吃吗",
-   "likes": 0,
-   "replies": []
   },
   {
    "user": "苹果橙",
@@ -452,14 +428,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "睡眠不族",
-   "avatar": "🍀",
-   "avColor": "#fbcfe8",
-   "text": "点了必须支持蒜香鱿鱼天妇罗比蟹柳的好吃很多",
-   "likes": 2,
-   "replies": []
-  },
-  {
    "user": "你想多了",
    "avatar": "☕",
    "avColor": "#ddd6fe",
@@ -673,14 +641,6 @@ window.POSTS.push({
    "avColor": "#ddd6fe",
    "text": "我家附近的商场要开寿司郎了，再也不用跑老远去吃了[完啦R]已预约开业当天下午去爽吃",
    "likes": 0,
-   "replies": []
-  },
-  {
-   "user": "bi8bo",
-   "avatar": "🍎",
-   "avColor": "#fed7aa",
-   "text": "500分",
-   "likes": 1,
    "replies": []
   },
   {

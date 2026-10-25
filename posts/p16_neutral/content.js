@@ -64,22 +64,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "楚小汐与画画",
-   "avatar": "🌟",
-   "avColor": "#e9d5ff",
-   "text": "赞同＋100！",
-   "likes": 267,
-   "replies": []
-  },
-  {
-   "user": "修",
-   "avatar": "🍀",
-   "avColor": "#bbf7d0",
-   "text": "这一张我给到夯",
-   "likes": 151,
-   "replies": []
-  },
-  {
    "user": "momo",
    "avatar": "☕",
    "avColor": "#fef9c3",
@@ -92,14 +76,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "！ 米Q",
-   "avatar": "🌈",
-   "avColor": "#c7d2fe",
-   "text": "不雷霆啊，我觉得很好看是编发诶，造型花心思了",
-   "likes": 951,
-   "replies": []
   },
   {
    "user": "妮娜妮娜",
@@ -116,14 +92,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "好想退休",
-   "avatar": "🍎",
-   "avColor": "#fecaca",
-   "text": "终于找到这句了，我也感觉不够潮",
-   "likes": 22,
-   "replies": []
-  },
-  {
    "user": "给我吃kfc蛋挞",
    "avatar": "🌿",
    "avColor": "#a7f3d0",
@@ -136,22 +104,6 @@ window.POSTS.push({
      "likes": 9
     }
    ]
-  },
-  {
-   "user": "给我吃kfc蛋挞",
-   "avatar": "💡",
-   "avColor": "#bae6fd",
-   "text": "美晕了 [视频]6s",
-   "likes": 9,
-   "replies": []
-  },
-  {
-   "user": "修",
-   "avatar": "🐻",
-   "avColor": "#fef3c7",
-   "text": "这一张我也给到夯",
-   "likes": 383,
-   "replies": []
   },
   {
    "user": "一颗QQ糖",
@@ -168,14 +120,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "一颗QQ糖",
-   "avatar": "🍃",
-   "avColor": "#fbcfe8",
-   "text": "p一美的好突出",
-   "likes": 47,
-   "replies": []
-  },
-  {
    "user": "大腻",
    "avatar": "🐶",
    "avColor": "#ddd6fe",
@@ -188,14 +132,6 @@ window.POSTS.push({
      "likes": 10
     }
    ]
-  },
-  {
-   "user": "大腻",
-   "avatar": "🍊",
-   "avColor": "#fed7aa",
-   "text": "好的，我查到了是薛冰冰老师，审美很高级",
-   "likes": 38,
-   "replies": []
   },
   {
    "user": "小熊软糖🐻",

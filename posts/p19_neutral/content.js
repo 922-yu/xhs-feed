@@ -37,27 +37,11 @@ window.POSTS.push({
  ],
  "commentsList": [
   {
-   "user": "Frost",
-   "avatar": "🐱",
-   "avColor": "#fed7aa",
-   "text": "点赞图标是个银杏叶耶",
-   "likes": 713,
-   "replies": []
-  },
-  {
    "user": "momo💜",
    "avatar": "🌟",
    "avColor": "#e9d5ff",
    "text": "哈哈哈哈 带系统穿越了",
    "likes": 1056,
-   "replies": []
-  },
-  {
-   "user": "白呀白",
-   "avatar": "🍀",
-   "avColor": "#bbf7d0",
-   "text": "狠狠懂了",
-   "likes": 95,
    "replies": []
   },
   {
@@ -77,14 +61,6 @@ window.POSTS.push({
    "replies": []
   },
   {
-   "user": "投石向月.",
-   "avatar": "🐰",
-   "avColor": "#fde68a",
-   "text": "你这个构图也好漂亮 昂扬的生命力",
-   "likes": 217,
-   "replies": []
-  },
-  {
    "user": "momo",
    "avatar": "🍎",
    "avColor": "#fecaca",
@@ -98,14 +74,6 @@ window.POSTS.push({
    "avColor": "#a7f3d0",
    "text": "好好看啊，感觉都闻到树林和阳光的味道了",
    "likes": 2,
-   "replies": []
-  },
-  {
-   "user": "momo",
-   "avatar": "💡",
-   "avColor": "#bae6fd",
-   "text": "好用生命力的照片",
-   "likes": 7,
    "replies": []
   },
   {

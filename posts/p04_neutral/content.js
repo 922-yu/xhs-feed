@@ -86,14 +86,6 @@ window.POSTS.push({
    ]
   },
   {
-   "user": "工作中",
-   "avatar": "☕",
-   "avColor": "#fef9c3",
-   "text": "我知道这很难，但这是命令！",
-   "likes": 304,
-   "replies": []
-  },
-  {
    "user": "承页石爱吃大虾",
    "avatar": "🌈",
    "avColor": "#c7d2fe",
@@ -349,14 +341,6 @@ window.POSTS.push({
    "avColor": "#a7f3d0",
    "text": "想用来擦屁股",
    "likes": 1,
-   "replies": []
-  },
-  {
-   "user": "wowo",
-   "avatar": "🌸",
-   "avColor": "#bae6fd",
-   "text": "@乙坂有宇 哇",
-   "likes": 0,
    "replies": []
   },
   {
