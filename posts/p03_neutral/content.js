@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "雷厉风行的小陈",
  "avatar": "☕",
  "avColor": "#e9d5ff",
- "cover": "posts/p03_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p03_neutral/cover.jpg"",
  "coverH": 360,
  "date": "10-21",
  "likes": 20000,
@@ -33,7 +33,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p03_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p03_neutral/cover.jpg""
  ],
  "commentsList": [
   {

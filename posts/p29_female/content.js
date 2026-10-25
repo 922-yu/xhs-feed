@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "新世相",
  "avatar": "🐰",
  "avColor": "#e9d5ff",
- "cover": "posts/p29_female/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p29_female/cover.jpg"",
  "coverH": 330,
  "date": "06-30",
  "likes": 5839,
@@ -91,7 +91,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p29_female/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p29_female/cover.jpg""
  ],
  "commentsList": [
   {

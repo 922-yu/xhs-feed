@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "陈野棠",
  "avatar": "🌻",
  "avColor": "#bbf7d0",
- "cover": "posts/p17_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p17_neutral/cover.jpg"",
  "coverH": 380,
  "date": "10-20",
  "likes": 6140,
@@ -43,7 +43,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p17_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p17_neutral/cover.jpg""
  ],
  "commentsList": [
   {

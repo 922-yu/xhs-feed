@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "一个剑修师姐",
  "avatar": "☕",
  "avColor": "#ddd6fe",
- "cover": "posts/p27_female/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p27_female/cover.jpg"",
  "coverH": 380,
  "date": "10-06",
  "likes": 44000,
@@ -66,7 +66,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p27_female/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p27_female/cover.jpg""
  ],
  "commentsList": [
   {

@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "威士忌坏坏「Hayes'社牛猫舍」",
  "avatar": "🌈",
  "avColor": "#bbf7d0",
- "cover": "posts/p04_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p04_neutral/cover.jpg"",
  "coverH": 280,
  "date": "10-15",
  "likes": 22602,
@@ -42,11 +42,11 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p04_neutral/cover.jpg",
-  "posts/p04_neutral/img1.jpg",
-  "posts/p04_neutral/img2.jpg",
-  "posts/p04_neutral/img3.jpg",
-  "posts/p04_neutral/img4.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p04_neutral/cover.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p04_neutral/img1.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p04_neutral/img2.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p04_neutral/img3.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p04_neutral/img4.jpg""
  ],
  "commentsList": [
   {

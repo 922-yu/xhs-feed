@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "阿P老师",
  "avatar": "🦊",
  "avColor": "#bbf7d0",
- "cover": "posts/p43_finance/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p43_finance/cover.jpg"",
  "coverH": 360,
  "date": "06-17",
  "likes": 9020,
@@ -182,7 +182,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p43_finance/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p43_finance/cover.jpg""
  ],
  "commentsList": [
   {

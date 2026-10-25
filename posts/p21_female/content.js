@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "momo",
  "avatar": "🌼",
  "avColor": "#fecaca",
- "cover": "posts/p21_female/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p21_female/cover.jpg"",
  "coverH": 320,
  "date": "10-20",
  "likes": 5659,
@@ -31,7 +31,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p21_female/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p21_female/cover.jpg""
  ],
  "commentsList": [
   {

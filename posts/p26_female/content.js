@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "táng",
  "avatar": "🍀",
  "avColor": "#fbcfe8",
- "cover": "posts/p26_female/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p26_female/cover.jpg"",
  "coverH": 300,
  "date": "10-13",
  "likes": 11000,
@@ -31,7 +31,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p26_female/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p26_female/cover.jpg""
  ],
  "commentsList": [
   {

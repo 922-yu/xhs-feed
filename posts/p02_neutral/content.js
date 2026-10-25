@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "HazelC.",
  "avatar": "🍀",
  "avColor": "#fed7aa",
- "cover": "posts/p02_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p02_neutral/cover.jpg"",
  "coverH": 300,
  "date": "10-21",
  "likes": 19000,
@@ -33,7 +33,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p02_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p02_neutral/cover.jpg""
  ],
  "commentsList": [
   {

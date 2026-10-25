@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "饭团要独立",
  "avatar": "🐱",
  "avColor": "#fef3c7",
- "cover": "posts/p24_female/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p24_female/cover.jpg"",
  "coverH": 280,
  "date": "07-08",
  "likes": 3481,
@@ -42,7 +42,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p24_female/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p24_female/cover.jpg""
  ],
  "commentsList": [
   {

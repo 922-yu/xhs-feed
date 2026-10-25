@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "小猫咪爱赚钱",
  "avatar": "🌿",
  "avColor": "#fde68a",
- "cover": "posts/p07_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p07_neutral/cover.jpg"",
  "coverH": 380,
  "date": "10-19",
  "likes": 9586,
@@ -27,7 +27,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p07_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p07_neutral/cover.jpg""
  ],
  "commentsList": [
   {

@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "马军",
  "avatar": "🌞",
  "avColor": "#ddd6fe",
- "cover": "posts/p14_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p14_neutral/cover.jpg"",
  "coverH": 280,
  "date": "10-21",
  "likes": 24000,
@@ -38,12 +38,12 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p14_neutral/cover.jpg",
-  "posts/p14_neutral/img1.jpg",
-  "posts/p14_neutral/img2.jpg",
-  "posts/p14_neutral/img3.jpg",
-  "posts/p14_neutral/img4.jpg",
-  "posts/p14_neutral/img5.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p14_neutral/cover.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p14_neutral/img1.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p14_neutral/img2.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p14_neutral/img3.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p14_neutral/img4.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p14_neutral/img5.jpg""
  ],
  "commentsList": [
   {

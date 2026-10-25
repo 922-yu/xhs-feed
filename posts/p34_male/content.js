@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "Anderson_",
  "avatar": "🌸",
  "avColor": "#fecaca",
- "cover": "posts/p34_male/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p34_male/cover.jpg"",
  "coverH": 280,
  "date": "10-14",
  "likes": 2405,
@@ -70,7 +70,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p34_male/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p34_male/cover.jpg""
  ],
  "commentsList": [
   {

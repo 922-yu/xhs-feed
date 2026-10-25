@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "Aeroy",
  "avatar": "🌟",
  "avColor": "#bfdbfe",
- "cover": "posts/p25_female/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/cover.jpg"",
  "coverH": 340,
  "date": "08-19",
  "likes": 12000,
@@ -46,13 +46,13 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p25_female/cover.jpg",
-  "posts/p25_female/img1.jpg",
-  "posts/p25_female/img2.jpg",
-  "posts/p25_female/img3.jpg",
-  "posts/p25_female/img4.jpg",
-  "posts/p25_female/img5.jpg",
-  "posts/p25_female/img6.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/cover.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/img1.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/img2.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/img3.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/img4.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/img5.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p25_female/img6.jpg""
  ],
  "commentsList": [
   {

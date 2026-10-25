@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "快要成为富婆了",
  "avatar": "🍎",
  "avColor": "#bbf7d0",
- "cover": "posts/p30_male/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p30_male/cover.jpg"",
  "coverH": 260,
  "date": "10-15",
  "likes": 25000,
@@ -32,12 +32,12 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p30_male/cover.jpg",
-  "posts/p30_male/img1.jpg",
-  "posts/p30_male/img2.jpg",
-  "posts/p30_male/img3.jpg",
-  "posts/p30_male/img4.jpg",
-  "posts/p30_male/img5.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p30_male/cover.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p30_male/img1.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p30_male/img2.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p30_male/img3.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p30_male/img4.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p30_male/img5.jpg""
  ],
  "commentsList": [
   {

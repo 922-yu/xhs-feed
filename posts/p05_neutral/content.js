@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "风月不入眼",
  "avatar": "🐰",
  "avColor": "#fef9c3",
- "cover": "posts/p05_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p05_neutral/cover.jpg"",
  "coverH": 340,
  "date": "09-23",
  "likes": 143,
@@ -28,7 +28,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p05_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p05_neutral/cover.jpg""
  ],
  "commentsList": [
   {

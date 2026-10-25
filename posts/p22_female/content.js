@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "是蓝喔喔",
  "avatar": "🐹",
  "avColor": "#a7f3d0",
- "cover": "posts/p22_female/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p22_female/cover.jpg"",
  "coverH": 300,
  "date": "10-09",
  "likes": 57000,
@@ -87,7 +87,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p22_female/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p22_female/cover.jpg""
  ],
  "commentsList": [
   {

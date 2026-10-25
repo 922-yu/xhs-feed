@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "自律蓝精灵",
  "avatar": "🐶",
  "avColor": "#bae6fd",
- "cover": "posts/p36_male/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p36_male/cover.jpg"",
  "coverH": 300,
  "date": "05-23",
  "likes": 3301,
@@ -57,7 +57,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p36_male/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p36_male/cover.jpg""
  ],
  "commentsList": [
   {

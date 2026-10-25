@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "荒野木屋",
  "avatar": "🐶",
  "avColor": "#bfdbfe",
- "cover": "posts/p12_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p12_neutral/cover.jpg"",
  "coverH": 300,
  "date": "10-19",
  "likes": 22000,
@@ -102,7 +102,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p12_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p12_neutral/cover.jpg""
  ],
  "commentsList": [
   {

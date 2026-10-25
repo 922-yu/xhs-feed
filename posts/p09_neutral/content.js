@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "Toni",
  "avatar": "🐻",
  "avColor": "#a7f3d0",
- "cover": "posts/p09_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p09_neutral/cover.jpg"",
  "coverH": 330,
  "date": "10-17",
  "likes": 13000,
@@ -26,7 +26,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p09_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p09_neutral/cover.jpg""
  ],
  "commentsList": [
   {

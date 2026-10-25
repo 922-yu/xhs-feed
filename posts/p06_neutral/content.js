@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "BOBOFreedom",
  "avatar": "🍎",
  "avColor": "#c7d2fe",
- "cover": "posts/p06_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p06_neutral/cover.jpg"",
  "coverH": 300,
  "date": "05-06",
  "likes": 21000,
@@ -90,7 +90,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p06_neutral/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p06_neutral/cover.jpg""
  ],
  "commentsList": [
   {

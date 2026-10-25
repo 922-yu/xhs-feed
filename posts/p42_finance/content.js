@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "forever",
  "avatar": "🐯",
  "avColor": "#e9d5ff",
- "cover": "posts/p42_finance/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p42_finance/cover.jpg"",
  "coverH": 300,
  "date": "10-12",
  "likes": 343,
@@ -30,7 +30,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p42_finance/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p42_finance/cover.jpg""
  ],
  "commentsList": [
   {

@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "钱大帅聊黄金",
  "avatar": "🐹",
  "avColor": "#fde68a",
- "cover": "posts/p46_finance/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p46_finance/cover.jpg"",
  "coverH": 300,
  "date": "10-16",
  "likes": 1120,
@@ -49,7 +49,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p46_finance/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p46_finance/cover.jpg""
  ],
  "commentsList": [
   {

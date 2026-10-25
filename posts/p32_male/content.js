@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "迪士尼在逃保洁",
  "avatar": "💡",
  "avColor": "#c7d2fe",
- "cover": "posts/p32_male/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p32_male/cover.jpg"",
  "coverH": 300,
  "date": "10-16",
  "likes": 6238,
@@ -26,7 +26,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p32_male/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p32_male/cover.jpg""
  ],
  "commentsList": [
   {

@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "林麓观雪（秋招许愿好offer版）",
  "avatar": "🐻",
  "avColor": "#fde68a",
- "cover": "posts/p33_male/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p33_male/cover.jpg"",
  "coverH": 360,
  "date": "10-16",
  "likes": 4057,
@@ -50,7 +50,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p33_male/cover.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p33_male/cover.jpg""
  ],
  "commentsList": [
   {

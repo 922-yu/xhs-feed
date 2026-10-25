@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "肖深刻",
  "avatar": "🍃",
  "avColor": "#fef3c7",
- "cover": "posts/p11_neutral/cover.jpg",
+ "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p11_neutral/cover.jpg"",
  "coverH": 320,
  "date": "06-02",
  "likes": 53000,
@@ -31,10 +31,10 @@ window.POSTS.push({
   }
  ],
  "album": [
-  "posts/p11_neutral/cover.jpg",
-  "posts/p11_neutral/img1.jpg",
-  "posts/p11_neutral/img2.jpg",
-  "posts/p11_neutral/img3.jpg"
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p11_neutral/cover.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p11_neutral/img1.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p11_neutral/img2.jpg"",
+  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p11_neutral/img3.jpg""
  ],
  "commentsList": [
   {
