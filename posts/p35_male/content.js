@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "不自律不自由",
  "avatar": "🍃",
  "avColor": "#a7f3d0",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/cover.jpg",
  "coverH": 340,
  "date": "10-23",
  "likes": 23000,
@@ -38,10 +38,10 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/cover.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/img1.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/img2.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/img3.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/cover.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/img1.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/img2.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p35_male/img3.jpg"
  ],
  "commentsList": [
   {

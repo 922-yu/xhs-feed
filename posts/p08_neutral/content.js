@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "漫若",
  "avatar": "💡",
  "avColor": "#fecaca",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/cover.jpg",
  "coverH": 290,
  "date": "09-27",
  "likes": 20000,
@@ -41,12 +41,12 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/cover.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img1.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img2.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img3.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img4.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img5.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/cover.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img1.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img2.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img3.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img4.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p08_neutral/img5.jpg"
  ],
  "commentsList": [
   {

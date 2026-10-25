@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "即刻搭",
  "avatar": "🐻‍❄️",
  "avColor": "#bae6fd",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p23_female/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p23_female/cover.jpg",
  "coverH": 360,
  "date": "09-22",
  "likes": 3709,
@@ -32,7 +32,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p23_female/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p23_female/cover.jpg"
  ],
  "commentsList": [
   {

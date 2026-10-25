@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "Angel在雪国",
  "avatar": "🍇",
  "avColor": "#e9d5ff",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/cover.jpg",
  "coverH": 300,
  "date": "10-16",
  "likes": 29000,
@@ -38,15 +38,15 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/cover.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img1.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img2.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img3.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img4.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img5.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img6.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img7.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img8.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/cover.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img1.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img2.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img3.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img4.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img5.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img6.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img7.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p16_neutral/img8.jpg"
  ],
  "commentsList": [
   {

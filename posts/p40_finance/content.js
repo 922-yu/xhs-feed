@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "薄荷小姨",
  "avatar": "🍇",
  "avColor": "#ddd6fe",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/cover.jpg",
  "coverH": 260,
  "date": "03-04",
  "likes": 12000,
@@ -58,11 +58,11 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/cover.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img1.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img2.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img3.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img4.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/cover.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img1.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img2.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img3.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p40_finance/img4.jpg"
  ],
  "commentsList": [
   {

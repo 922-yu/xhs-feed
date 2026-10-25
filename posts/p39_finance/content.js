@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "双曲余弦函数",
  "avatar": "🐼",
  "avColor": "#fbcfe8",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p39_finance/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p39_finance/cover.jpg",
  "coverH": 330,
  "date": "08-15",
  "likes": 1432,
@@ -61,7 +61,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p39_finance/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p39_finance/cover.jpg"
  ],
  "commentsList": [
   {

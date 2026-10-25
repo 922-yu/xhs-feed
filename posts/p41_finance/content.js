@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "达尔瓦",
  "avatar": "🌻",
  "avColor": "#fed7aa",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p41_finance/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p41_finance/cover.jpg",
  "coverH": 320,
  "date": "05-28",
  "likes": 3009,
@@ -77,8 +77,8 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p41_finance/cover.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p41_finance/img1.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p41_finance/cover.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p41_finance/img1.jpg"
  ],
  "commentsList": [
   {

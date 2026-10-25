@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "Silver刘宇泽",
  "avatar": "🌼",
  "avColor": "#c7d2fe",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p45_finance/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p45_finance/cover.jpg",
  "coverH": 340,
  "date": "01-29",
  "likes": 5213,
@@ -92,7 +92,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p45_finance/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p45_finance/cover.jpg"
  ],
  "commentsList": [
   {

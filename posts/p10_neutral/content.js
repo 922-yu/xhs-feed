@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "某白毛幸运男子",
  "avatar": "🌸",
  "avColor": "#bae6fd",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p10_neutral/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p10_neutral/cover.jpg",
  "coverH": 260,
  "date": "09-25",
  "likes": 854,
@@ -81,7 +81,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p10_neutral/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p10_neutral/cover.jpg"
  ],
  "commentsList": [
   {

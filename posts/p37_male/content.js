@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "有神采的西兰花",
  "avatar": "🍊",
  "avColor": "#fef3c7",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/cover.jpg",
  "coverH": 380,
  "date": "12-22",
  "likes": 61000,
@@ -32,9 +32,9 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/cover.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/img1.jpg"",
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/img2.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/cover.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/img1.jpg",
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p37_male/img2.jpg"
  ],
  "commentsList": [
   {

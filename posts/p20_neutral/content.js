@@ -9,7 +9,7 @@ window.POSTS.push({
  "author": "Gloriaaa:)",
  "avatar": "🍓",
  "avColor": "#fde68a",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p20_neutral/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p20_neutral/cover.jpg",
  "coverH": 260,
  "date": "10-16",
  "likes": 3170,
@@ -30,7 +30,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p20_neutral/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p20_neutral/cover.jpg"
  ],
  "commentsList": [
   {

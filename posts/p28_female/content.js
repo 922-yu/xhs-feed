@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "Leon",
  "avatar": "🌈",
  "avColor": "#fed7aa",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p28_female/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p28_female/cover.jpg",
  "coverH": 290,
  "date": "10-17",
  "likes": 20000,
@@ -36,7 +36,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p28_female/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p28_female/cover.jpg"
  ],
  "commentsList": [
   {

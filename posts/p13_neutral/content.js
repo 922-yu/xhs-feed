@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "三寸小屋",
  "avatar": "🍊",
  "avColor": "#fbcfe8",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p13_neutral/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p13_neutral/cover.jpg",
  "coverH": 360,
  "date": "10-20",
  "likes": 64000,
@@ -67,7 +67,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p13_neutral/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p13_neutral/cover.jpg"
  ],
  "commentsList": [
   {

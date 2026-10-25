@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "鸡翅怎么做最好吃呢",
  "avatar": "🌟",
  "avColor": "#ddd6fe",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p01_neutral/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p01_neutral/cover.jpg",
  "coverH": 320,
  "date": "10-20",
  "likes": 5930,
@@ -102,7 +102,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p01_neutral/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p01_neutral/cover.jpg"
  ],
  "commentsList": [
   {

@@ -10,7 +10,7 @@ window.POSTS.push({
  "author": "桃桃呀是公主呀",
  "avatar": "🌿",
  "avColor": "#fef9c3",
- "cover": ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p31_male/cover.jpg"",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p31_male/cover.jpg",
  "coverH": 320,
  "date": "10-14",
  "likes": 5080,
@@ -99,7 +99,7 @@ window.POSTS.push({
   }
  ],
  "album": [
-  ""https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p31_male/cover.jpg""
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p31_male/cover.jpg"
  ],
  "commentsList": [
   {
