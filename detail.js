@@ -85,12 +85,13 @@
     return html;
   }
 
+  let sortedComments = []; // 排序后的评论列表（键 cN 的下标以此为准，避免点赞取数错位）
   function renderComments() {
-    const base = (post.commentsList || []).slice().sort((a, b) => {
-    if (!!a.pin !== !!b.pin) return (b.pin ? 1 : 0) - (a.pin ? 1 : 0);
-    return (b.likes || 0) - (a.likes || 0);
-  });
-    let html = base.map((c, i) => renderComment(c, "c" + i)).join("");
+    sortedComments = (post.commentsList || []).slice().sort((a, b) => {
+      if (!!a.pin !== !!b.pin) return (b.pin ? 1 : 0) - (a.pin ? 1 : 0);
+      return (b.likes || 0) - (a.likes || 0);
+    });
+    let html = sortedComments.map((c, i) => renderComment(c, "c" + i)).join("");
     html += posted.slice().reverse().map((c, i) => renderComment(c, "p" + i)).join("");
     return html;
   }
@@ -199,7 +200,7 @@
       let base = 0;
       const m = key.match(/^c(\d+)(?:-r(\d+))?$/);
       if (m) {
-        const c = post.commentsList[+m[1]];
+        const c = sortedComments[+m[1]];
         if (c) base = m[2] !== undefined ? (c.replies && c.replies[+m[2]] ? c.replies[+m[2]].likes || 0 : 0) : (c.likes || 0);
       } else {
         const pm = key.match(/^p(\d+)$/);

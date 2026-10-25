@@ -140,7 +140,7 @@ a { color: inherit; text-decoration: none; }
 .act.liked { color: #ff2442; }
 .act.starred { color: #ffb400; }
 
-/* 详情顶部返回栏 */
+/* 详情顶部返回栏（fixed 常驻，#detail 需预留等高空间防止图片被遮挡） */
 .detail-top {
   position: fixed; top: 0; left: 50%; transform: translateX(-50%);
   width: 100%; max-width: 430px; z-index: 30;
@@ -148,7 +148,8 @@ a { color: inherit; text-decoration: none; }
   padding: 10px 14px; background: rgba(255,255,255,.92); backdrop-filter: blur(6px);
   border-bottom: 1px solid #f2f2f2;
 }
-.back { font-size: 22px; color: #1a1a1a; cursor: pointer; }
+#detail { padding-top: 50px; }
+.back { font-size: 22px; line-height: 24px; color: #1a1a1a; cursor: pointer; }
 .detail-top .dt-title { font-size: 15px; font-weight: 600; }
 
 /* 图片加载失败占位 */
