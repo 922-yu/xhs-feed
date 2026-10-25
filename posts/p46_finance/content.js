@@ -12,7 +12,7 @@ window.POSTS.push({
  "cover": "posts/p46_finance/cover.jpg",
  "coverH": 300,
  "date": "10-16",
- "likes": 75,
+ "likes": 1120,
  "stars": 35,
  "comments": 80,
  "body": [

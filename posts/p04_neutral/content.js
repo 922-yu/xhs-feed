@@ -13,7 +13,7 @@ window.POSTS.push({
  "cover": "posts/p04_neutral/cover.jpg",
  "coverH": 280,
  "date": "10-15",
- "likes": 0,
+ "likes": 22602,
  "stars": 12000,
  "comments": 3767,
  "body": [

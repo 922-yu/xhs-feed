@@ -44,7 +44,7 @@
     card.dataset.id = p.id;
     const h = p.coverH || 300;
     card.innerHTML =
-      '<img class="cover" src="' + p.cover + '" data-h="' + h + '" alt="">' +
+      '<img class="cover" src="' + p.cover + '" data-h="' + h + '" alt="" loading="lazy">' +
       '<div class="info">' +
         '<div class="title">' + esc(p.title) + "</div>" +
         '<div class="meta">' +
@@ -55,8 +55,16 @@
       "</div>";
     imgFallback(card.querySelector(".cover"), p.title);
     card.addEventListener("click", function () {
+      try { sessionStorage.setItem("xhs_scroll_" + group, String(window.scrollY)); } catch (e) {}
       location.href = "detail.html?id=" + p.id + "&from=" + group.toLowerCase();
     });
     feedEl.appendChild(card);
   });
+
+  // 返回时恢复滚动位置（问题1）：进入帖子前已记下滚动位置，回到首页后回到原处
+  try {
+    const k = "xhs_scroll_" + group;
+    const y = sessionStorage.getItem(k);
+    if (y !== null) { window.scrollTo(0, parseInt(y, 10)); sessionStorage.removeItem(k); }
+  } catch (e) {}
 })();

@@ -54,29 +54,42 @@
             (c.mine ? '<span class="mine-tag">我</span>' : "") + "</div>" +
           '<div class="c-text">' + esc(c.text) + "</div>" +
           '<div class="c-meta"><span>' + esc(c.meta || "") + "</span>" +
-            '<span class="c-like' + (on ? " on" : "") + '" data-like="' + key + '">❤ <span class="lk">' + fmt(base + (on ? 1 : 0)) + "</span></span>" +
+            '<span class="c-like' + (on ? " on" : "") + '" data-like="' + key + '"><span class="hk">' + (on ? "❤️" : "♡") + '</span> <span class="lk">' + fmt(base + (on ? 1 : 0)) + "</span></span>" +
             (c.replies && c.replies.length ? '<span class="c-reply-toggle" data-key="' + key + '">' + c.replies.length + "条回复 ›</span>" : "") +
           "</div>";
     if (c.replies && c.replies.length) {
-      html += '<div class="replies" data-replies="' + key + '">';
-      c.replies.forEach((r, i) => {
-        const rk = key + "-r" + i;
-        const rl = !!clkLike[rk];
-        html +=
-          '<div class="reply" data-key="' + rk + '">' +
+      const r0 = c.replies[0];
+      const rk0 = key + "-r0";
+      const rl0 = !!clkLike[rk0];
+      html += '<div class="reply-first">' +
+        '<span class="r-name">' + esc(r0.user) + "：</span>" +
+        '<span class="r-text">' + esc(r0.text) + "</span>" +
+        '<span class="r-like' + (rl0 ? " on" : "") + '" data-like="' + rk0 + '"><span class="hk">' + (rl0 ? "❤️" : "♡") + "</span></span>" +
+        "</div>";
+      if (c.replies.length > 1) {
+        html += '<div class="c-reply-toggle" data-key="' + key + '">展开 ' + (c.replies.length - 1) + " 条回复 ›</div>";
+        html += '<div class="replies" data-replies="' + key + '">';
+        c.replies.slice(1).forEach((r, i) => {
+          const rk = key + "-r" + (i + 1);
+          const rl = !!clkLike[rk];
+          html += '<div class="reply" data-key="' + rk + '">' +
             '<span class="r-name">' + esc(r.user) + "：</span>" +
             '<span class="r-text">' + esc(r.text) + "</span>" +
-            '<span class="r-like' + (rl ? " on" : "") + '" data-like="' + rk + '">❤ <span class="lk">' + fmt((r.likes || 0) + (rl ? 1 : 0)) + "</span></span>" +
-          "</div>";
-      });
-      html += "</div>";
+            '<span class="r-like' + (rl ? " on" : "") + '" data-like="' + rk + '"><span class="hk">' + (rl ? "❤️" : "♡") + "</span></span>" +
+            "</div>";
+        });
+        html += "</div>";
+      }
     }
     html += "</div></div>";
     return html;
   }
 
   function renderComments() {
-    const base = (post.commentsList || []).slice().sort((a, b) => (b.pin ? 1 : 0) - (a.pin ? 1 : 0));
+    const base = (post.commentsList || []).slice().sort((a, b) => {
+    if (!!a.pin !== !!b.pin) return (b.pin ? 1 : 0) - (a.pin ? 1 : 0);
+    return (b.likes || 0) - (a.likes || 0);
+  });
     let html = base.map((c, i) => renderComment(c, "c" + i)).join("");
     html += posted.slice().reverse().map((c, i) => renderComment(c, "p" + i)).join("");
     return html;
@@ -205,8 +218,9 @@
       clkLike[key] = on;
       localStorage.setItem(LS_LIKE, JSON.stringify(clkLike));
       const base = Number(likeEl.dataset.base || 0);
-      likeEl.querySelector(".lk").textContent = fmt(base + (on ? 1 : 0));
+      const lk = likeEl.querySelector(".lk"); if (lk) lk.textContent = fmt(base + (on ? 1 : 0));
       likeEl.classList.toggle("on", on);
+      const hk = likeEl.querySelector(".hk"); if (hk) hk.textContent = on ? "❤️" : "♡";
       return;
     }
     const tog = e.target.closest(".c-reply-toggle");
@@ -214,7 +228,7 @@
       const rep = document.querySelector('[data-replies="' + tog.dataset.key + '"]');
       if (rep) {
         const open = rep.classList.toggle("open");
-        tog.textContent = open ? "收起回复 ∧" : rep.childElementCount + "条回复 ›";
+        tog.textContent = open ? "收起回复 ∧" : "展开 " + rep.childElementCount + " 条回复 ›";
       }
     }
   });
