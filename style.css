@@ -187,14 +187,14 @@ video.album-img { display: block; }
   display: flex; align-items: center; gap: 3px; color: #aaa; font-size: 12px; cursor: pointer;
 }
 .comment .c-like.on, .reply .r-like.on { color: #ff2442; }
-.comment .c-reply-toggle { color: #3a6ea5; cursor: pointer; }
+.comment .c-reply-toggle { color: #999; cursor: pointer; margin-top: 6px; display: inline-block; font-size: 13px; }
 .replies { display: none; margin-top: 8px; padding-left: 6px; border-left: 2px solid #f0f0f0; }
 .replies.open { display: block; }
-.reply { font-size: 13.5px; color: #444; margin: 8px 0; line-height: 1.5; }
-.reply .r-name { color: #888; }
-.reply .r-like { margin-left: 8px; }
-.reply-first { font-size: 13.5px; color: #444; margin: 8px 0 0; line-height: 1.5; display: flex; gap: 6px; align-items: flex-start; }
-.reply-first .r-like { margin-left: auto; flex: 0 0 auto; }
+.reply { font-size: 13.5px; color: #444; margin: 8px 0; line-height: 1.5; display: flex; align-items: flex-start; }
+.reply .r-body, .reply-first .r-body { flex: 1; min-width: 0; }
+.reply .r-name, .reply-first .r-name { color: #888; }
+.reply .r-like, .reply-first .r-like { flex: 0 0 auto; margin-left: 8px; }
+.reply-first { font-size: 13.5px; color: #444; margin: 8px 0 0; line-height: 1.5; display: flex; align-items: flex-start; }
 .c-like .hk, .r-like .hk { font-style: normal; }
 .mine-tag {
   font-size: 11px; color: #fff; background: #ff2442;

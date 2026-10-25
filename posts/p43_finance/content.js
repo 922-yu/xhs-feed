@@ -184,5 +184,150 @@ window.POSTS.push({
  "album": [
   "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p43_finance/cover.jpg"
  ],
- "commentsList": []
+ "commentsList": [
+  {
+   "user": "喵宝爱生活",
+   "avatar": "🐱",
+   "avColor": "#fed7aa",
+   "text": "Can't agree more. 手动给你点赞",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "五金灯具",
+   "avatar": "🌟",
+   "avColor": "#e9d5ff",
+   "text": "有点困惑。人是社会关系的总和。请问怎么应对没有广义认知上的社会身份而来的焦虑呢？",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "你听得到819",
+   "avatar": "🍀",
+   "avColor": "#bbf7d0",
+   "text": "你别忘了资本异化，你只要有钱花，你在哪里都有身份 你去高端酒店，有人给你推箱子",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "弯弯雅",
+   "avatar": "☕",
+   "avColor": "#fef9c3",
+   "text": "资金到什么时候，复利会很大，会比较快赚钱",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "糖酱Molasses",
+   "avatar": "🌈",
+   "avColor": "#c7d2fe",
+   "text": "50w吧",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "喜多是只e猫",
+   "avatar": "🐰",
+   "avColor": "#fde68a",
+   "text": "我爸也是天天在家躺着炒股票 从A8炒到A7[呃R]",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "Re.",
+   "avatar": "🍎",
+   "avColor": "#fecaca",
+   "text": "投资真能长久的赚到钱的人 其实也不是一般人 因为投资场上太看一个人的认知 判断力 还有对自己的克制和管理了 很多人其实是亏钱甚至是倾家荡产",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "阿亮在生活",
+   "avatar": "🌿",
+   "avColor": "#a7f3d0",
+   "text": "前半生人格独立，后半生投资复利[福气加马]",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "Naifufu",
+   "avatar": "💡",
+   "avColor": "#bae6fd",
+   "text": "@豆沙空空",
+   "likes": 0,
+   "replies": []
+  },
+  {
+   "user": "Vivian",
+   "avatar": "🐻",
+   "avColor": "#fef3c7",
+   "text": "我小时候是幻想有职业经理人给我赚钱，我天天环游世界就行了～哈哈哈哈",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "苏合山",
+   "avatar": "🌸",
+   "avColor": "#bfdbfe",
+   "text": "职业经理人带着我亏钱",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "你的派大星",
+   "avatar": "🍃",
+   "avColor": "#fbcfe8",
+   "text": "可是，这个是赚到钱才能这么说很多人投资是亏钱的",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "momo",
+   "avatar": "🐶",
+   "avColor": "#ddd6fe",
+   "text": "正确的投资心态：挣钱是运气，亏钱是我菜",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "QIANQQQQQ",
+   "avatar": "🍊",
+   "avColor": "#fed7aa",
+   "text": "看到这句“被迫上班谋生的痛苦是一种纵观人类 历史的统一的痛苦，我们确定大概率帮你避免 了，我们才生的你”我终于彻底明白了我目前还不想生孩子的想法，并不是想逃避责任或者怪罪自己没有能力养孩子，其实就是我希望自己能够让孩子避免被迫谋生的风险，我没达到这样的条件，我一点也不想结婚生子",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "QIANQQQQQ",
+   "avatar": "🌞",
+   "avColor": "#e9d5ff",
+   "text": "想知道啊 p 老师对于25岁刚毕业女生对于未来规划的想法！可以简单讲讲（虽然有点宽泛，但我觉得您特别有教育女儿的智慧）",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "123456",
+   "avatar": "🐼",
+   "avColor": "#bbf7d0",
+   "text": "踢我",
+   "likes": 0,
+   "replies": []
+  },
+  {
+   "user": "momo",
+   "avatar": "🍇",
+   "avColor": "#fef9c3",
+   "text": "说实在话人还是要有点追求的，我其实完全可以靠我的投资躺平但还是想自己创业（上班是不会上班的但是要为自己打工",
+   "likes": 10,
+   "replies": []
+  },
+  {
+   "user": "反卷达人",
+   "avatar": "🌻",
+   "avColor": "#c7d2fe",
+   "text": "虽然但是，博主创业好多年了，人家公司挣得钱躺赚，甚至于因为不想管理而想着什么时候才能不开公司了，行业小而专精还稀缺",
+   "likes": 7,
+   "replies": []
+  }
+ ]
 });

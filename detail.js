@@ -55,27 +55,28 @@
           '<div class="c-text">' + esc(c.text) + "</div>" +
           '<div class="c-meta"><span>' + esc(c.meta || "") + "</span>" +
             '<span class="c-like' + (on ? " on" : "") + '" data-like="' + key + '"><span class="hk">' + (on ? "❤️" : "♡") + '</span> <span class="lk">' + fmt(base + (on ? 1 : 0)) + "</span></span>" +
-            (c.replies && c.replies.length ? '<span class="c-reply-toggle" data-key="' + key + '">' + c.replies.length + "条回复 ›</span>" : "") +
           "</div>";
     if (c.replies && c.replies.length) {
       const r0 = c.replies[0];
       const rk0 = key + "-r0";
       const rl0 = !!clkLike[rk0];
+      const r0n = r0.likes || 0;
       html += '<div class="reply-first">' +
-        '<span class="r-name">' + esc(r0.user) + "：</span>" +
-        '<span class="r-text">' + esc(r0.text) + "</span>" +
-        '<span class="r-like' + (rl0 ? " on" : "") + '" data-like="' + rk0 + '"><span class="hk">' + (rl0 ? "❤️" : "♡") + "</span></span>" +
+        '<span class="r-body"><span class="r-name">' + esc(r0.user) + "：</span>" +
+        '<span class="r-text">' + esc(r0.text) + "</span></span>" +
+        '<span class="r-like' + (rl0 ? " on" : "") + '" data-like="' + rk0 + '"><span class="hk">' + (rl0 ? "❤️" : "♡") + "</span>" + (r0n > 0 ? '<span class="lk">' + fmt(r0n + (rl0 ? 1 : 0)) + "</span>" : "") + "</span>" +
         "</div>";
       if (c.replies.length > 1) {
-        html += '<div class="c-reply-toggle" data-key="' + key + '">展开 ' + (c.replies.length - 1) + " 条回复 ›</div>";
+        html += '<div class="c-reply-toggle" data-key="' + key + '">共' + c.replies.length + "条回复 ›</div>";
         html += '<div class="replies" data-replies="' + key + '">';
         c.replies.slice(1).forEach((r, i) => {
           const rk = key + "-r" + (i + 1);
           const rl = !!clkLike[rk];
+          const rn = r.likes || 0;
           html += '<div class="reply" data-key="' + rk + '">' +
-            '<span class="r-name">' + esc(r.user) + "：</span>" +
-            '<span class="r-text">' + esc(r.text) + "</span>" +
-            '<span class="r-like' + (rl ? " on" : "") + '" data-like="' + rk + '"><span class="hk">' + (rl ? "❤️" : "♡") + "</span></span>" +
+            '<span class="r-body"><span class="r-name">' + esc(r.user) + "：</span>" +
+            '<span class="r-text">' + esc(r.text) + "</span></span>" +
+            '<span class="r-like' + (rl ? " on" : "") + '" data-like="' + rk + '"><span class="hk">' + (rl ? "❤️" : "♡") + "</span>" + (rn > 0 ? '<span class="lk">' + fmt(rn + (rl ? 1 : 0)) + "</span>" : "") + "</span>" +
             "</div>";
         });
         html += "</div>";
@@ -229,7 +230,7 @@
       const rep = document.querySelector('[data-replies="' + tog.dataset.key + '"]');
       if (rep) {
         const open = rep.classList.toggle("open");
-        tog.textContent = open ? "收起回复 ∧" : "展开 " + rep.childElementCount + " 条回复 ›";
+        tog.textContent = open ? "收起 ∧" : "共" + (rep.childElementCount + 1) + "条回复 ›";
       }
     }
   });
