@@ -14,7 +14,7 @@ window.POSTS.push({
  "album": [
   "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p47_attention/cover.jpg"
  ],
- "coverH": 276,
+ "coverH": 200,
  "date": "10-26",
  "likes": 12,
  "stars": 3,

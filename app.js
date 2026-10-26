@@ -40,14 +40,12 @@
   const feedEl = document.getElementById("feed");
   feed.forEach(p => {
     const card = document.createElement("div");
-    // 注意力检测帖：跨两列全宽 + 顶部红色横幅，防止被快速划过
+    // 注意力检测帖：保持正常排版，仅加一个很淡的 css 标识，不抢眼
     const isAttn = p.cat === "attention";
     card.className = "card" + (isAttn ? " cat-attention" : "");
     card.dataset.id = p.id;
     const h = p.coverH || 300;
-    const attnBanner = isAttn ? '<div class="attn-banner">请仔细阅读本条 · 注意力检测</div>' : "";
     card.innerHTML =
-      attnBanner +
       '<img class="cover" src="' + p.cover + '" data-h="' + h + '" alt="" loading="lazy">' +
       '<div class="info">' +
         '<div class="title">' + esc(p.title) + "</div>" +
