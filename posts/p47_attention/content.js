@@ -6,7 +6,7 @@ window.POSTS.push({
   "A",
   "B"
  ],
- "title": "看到这条帖子的人，请在第一题注意力检测中选择 B 选项",
+ "title": "受访者请认真阅读本条内容！",
  "author": "问卷助手",
  "avatar": "!",
  "avColor": "#ffd6dc",
@@ -14,7 +14,7 @@ window.POSTS.push({
  "album": [
   "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p47_attention/cover.jpg"
  ],
- "coverH": 200,
+ "coverH": 290,
  "date": "10-26",
  "likes": 12,
  "stars": 3,
@@ -22,23 +22,19 @@ window.POSTS.push({
  "body": [
   {
    "t": "p",
-   "x": "看到这条帖子的人，"
+   "x": "感谢您浏览这条信息流！"
   },
   {
    "t": "p",
-   "x": "请在浏览完此信息流后，"
+   "x": "如果您看到本条帖子，请在浏览完信息流后出现的第一道问卷题目（第9题）中选择 B 选项。"
   },
   {
    "t": "p",
-   "x": "第一题注意力检测中"
+   "x": "本帖为注意力检测项，麻烦您认真阅读后再继续作答。"
   },
   {
    "t": "p",
-   "x": "选择 B 选项。"
-  },
-  {
-   "t": "p",
-   "x": "感谢你的认真阅读与参与！"
+   "x": "再次感谢您的耐心参与！"
   }
  ],
  "commentsList": []
