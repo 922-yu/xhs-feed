@@ -55,16 +55,56 @@
       "</div>";
     imgFallback(card.querySelector(".cover"), p.title);
     card.addEventListener("click", function () {
-      try { sessionStorage.setItem("xhs_scroll_" + group, String(window.scrollY)); } catch (e) {}
+      // 记住离开时视口顶部那张卡（锚点），而不是像素位置
+      try {
+        const cs = Array.prototype.slice.call(document.querySelectorAll(".card"));
+        for (let i = 0; i < cs.length; i++) {
+          const r = cs[i].getBoundingClientRect();
+          if (r.bottom > 8) {
+            sessionStorage.setItem("xhs_scroll_" + group,
+              JSON.stringify({ id: cs[i].dataset.id, off: Math.round(r.top) }));
+            break;
+          }
+        }
+      } catch (e) {}
       location.href = "detail.html?id=" + p.id + "&from=" + group.toLowerCase();
     });
     feedEl.appendChild(card);
   });
 
-  // 返回时恢复滚动位置（问题1）：进入帖子前已记下滚动位置，回到首页后回到原处
+  // 返回时按『锚点卡片』恢复位置。
+  // 封面 lazy-load 会持续改变上方布局，所以每次重试都按该卡片当时的真实位置重新对齐，
+  // 而不是只滚到一个固定像素（后者会被后续加载的图片带偏）。
   try {
     const k = "xhs_scroll_" + group;
-    const y = sessionStorage.getItem(k);
-    if (y !== null) { window.scrollTo(0, parseInt(y, 10)); sessionStorage.removeItem(k); }
+    const raw = sessionStorage.getItem(k);
+    if (raw !== null) {
+      sessionStorage.removeItem(k);
+      let anchor = null;
+      try { anchor = JSON.parse(raw); } catch (e) { anchor = null; }
+
+      if (anchor && anchor.id) {
+        let tries = 0, done = false;
+        // 用户一旦自己滚动，立即停止自动对齐
+        const stop = function () { done = true; };
+        window.addEventListener("wheel", stop, { passive: true });
+        window.addEventListener("touchstart", stop, { passive: true });
+        const tick = function () {
+          if (done) return;
+          const el = document.querySelector('.card[data-id="' + anchor.id + '"]');
+          if (el) {
+            const y = Math.round(el.getBoundingClientRect().top + window.scrollY - anchor.off);
+            if (y > 0) window.scrollTo(0, y);
+          }
+          tries++;
+          if (tries >= 30) { done = true; return; }
+          setTimeout(tick, 100);
+        };
+        tick();
+        window.addEventListener("load", function () { setTimeout(tick, 60); });
+      } else if (Number(raw) > 0) {
+        window.scrollTo(0, Number(raw));   // 兼容旧版存的纯数字
+      }
+    }
   } catch (e) {}
 })();
