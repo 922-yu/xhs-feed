@@ -10,11 +10,11 @@ window.POSTS.push({
  "author": "问卷助手",
  "avatar": "!",
  "avColor": "#ffd6dc",
- "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p47_attention/cover.jpg",
+ "cover": "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p47_attention/cover_v5.jpg",
  "album": [
-  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p47_attention/cover.jpg"
+  "https://xhs-feed-1516485383.cos.ap-beijing.myqcloud.com/posts/p47_attention/cover_v5.jpg"
  ],
- "coverH": 290,
+ "coverH": 360,
  "date": "10-26",
  "likes": 12,
  "stars": 3,
